@@ -1,6 +1,6 @@
 ### Bradley Rogue · Hollywood Rogue Ventures
 
-Former Nashville editor of *Cash Box Magazine*, investigative journalist on the Great Pyramid of Giza, and science-fiction author. Here I build **PSYFR**: browser instruments for predictive chronology, rendering Jason Breshears' Archaix thesis as working calendrics. I also took apart the Ophis desktop engine and rebuilt it for the web, with tests that check every rebuild against the original.
+Former Nashville editor of *Cash Box Magazine*, investigative journalist on the Great Pyramid of Giza, and science-fiction author. Here I build **PSYFR**: browser instruments for predictive chronology, rendering Jason Breshears' Archaix thesis as working calendrics. I also took apart the Ophis desktop engine and rebuilt it for the web, with tests that check every rebuild against the original. And I make **Claude skills for video**: tools that turn piles of AI-generated clips into finished, captioned, voiced films.
 
 **[Project hub](https://bradleyhomelinuxnet-prog.github.io/)** · **[Portfolio](https://rogue-ventures-portfolio.com/)**
 
@@ -12,6 +12,12 @@ Former Nashville editor of *Cash Box Magazine*, investigative journalist on the 
 | [NatorionCipherPredictiveEngine](https://github.com/bradleyhomelinuxnet-prog/NatorionCipherPredictiveEngine) | Ophis v12 reverse-engineered and rebuilt in the browser: Natorion Cipher, Ophis Web, and the original app running without Electron. | [open](https://bradleyhomelinuxnet-prog.github.io/NatorionCipherPredictiveEngine/) | [![tests](https://github.com/bradleyhomelinuxnet-prog/NatorionCipherPredictiveEngine/actions/workflows/tests.yml/badge.svg)](https://github.com/bradleyhomelinuxnet-prog/NatorionCipherPredictiveEngine/actions/workflows/tests.yml) |
 | [phoenix-chronicles-tools](https://github.com/bradleyhomelinuxnet-prog/phoenix-chronicles-tools) | Companion instruments and field guides for *The Phoenix CODEX 138 Palindromic*, plus the film production kit. | [open](https://bradleyhomelinuxnet-prog.github.io/phoenix-chronicles-tools/) | |
 | [OPHIS-Pattern-Recognition-Event-Prediction_files](https://github.com/bradleyhomelinuxnet-prog/OPHIS-Pattern-Recognition-Event-Prediction_files) | Single-file builds of the Ophis instrument and the Chronicon engine. | [open](https://bradleyhomelinuxnet-prog.github.io/OPHIS-Pattern-Recognition-Event-Prediction_files/) | |
+
+#### Video tools
+
+| Project | What it is | Setup & support | Tests |
+|---|---|---|---|
+| [rogue-walker-studio](https://github.com/bradleyhomelinuxnet-prog/rogue-walker-studio) | Six Claude skills that turn clips you already own into finished reels: palindromic walker-reel engine, clip captioner, house looks, a FilmCraft MCP bridge, an ArtCraft bridge, and a credit-budget planner. Zero generation credits to cut. | [hire me](https://rogue-ventures-portfolio.com/) | [![validate](https://github.com/bradleyhomelinuxnet-prog/rogue-walker-studio/actions/workflows/validate.yml/badge.svg)](https://github.com/bradleyhomelinuxnet-prog/rogue-walker-studio/actions/workflows/validate.yml) |
 
 #### Small, tested examples
 
