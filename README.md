@@ -2,7 +2,8 @@
 
 Former Nashville editor of *Cash Box Magazine*, investigative journalist on the Great Pyramid of Giza, and science-fiction author. Here I build **PSYFR**: browser instruments for predictive chronology, rendering Jason Breshears' Archaix thesis as working calendrics. I also took apart the Ophis desktop engine and rebuilt it for the web, with tests that check every rebuild against the original. And I make **Claude skills for video**: tools that turn piles of AI-generated clips into finished, captioned, voiced films.
 
-**[Project hub](https://bradleyhomelinuxnet-prog.github.io/)** · **[Portfolio]([https://rogue-ventures-portfolio.com/index.html](https://hollywood-rogue-ai-ventures.w3spaces.com/index.html
+**[Project hub](https://bradleyhomelinuxnet-prog.github.io/)** · 
+([https://rogue-ventures-portfolio.com/index.html](https://hollywood-rogue-ai-ventures.w3spaces.com/index.html
 
 ))**
 
